@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lrnin2Code
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on C# based projects.
+- 📫 At the moment I am not ready to be contacted directly.
